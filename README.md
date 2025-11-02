@@ -154,17 +154,6 @@ Then visit 👉 `http://localhost:3000`
 
 ---
 
-## 🖼️ Screenshots (Optional)
-
-You can add screenshots later like:
-```
-## 🖼️ Screenshots
-| Login Page | Dashboard |
-|-------------|------------|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
-```
-
----
 
 ## 🚀 Future Improvements
 - 📊 Weekly and monthly emotion charts  
